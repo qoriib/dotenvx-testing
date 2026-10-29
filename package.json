@@ -1,0 +1,12 @@
+{
+  "name": "dotenvx-testing",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "dotenvx run -- node index.js"
+  },
+  "devDependencies": {
+    "@dotenvx/dotenvx": "^2.38.2"
+  }
+}
